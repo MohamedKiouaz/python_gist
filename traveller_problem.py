@@ -1,4 +1,3 @@
-from dis import show_code
 import pygame as pg
 import random
 import tqdm
